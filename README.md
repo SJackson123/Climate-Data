@@ -8,5 +8,5 @@ Plotting precipitation from a NetCDF file.
 
 ## Skills Learned
 - Accessing and using metadata attributes for intial exploration of the dataset. 
-- Extracting data from a based on time, latitued and longitude.
+- Extracting data from a based on time, latitude and longitude.
 - Visualised change in precipitation over time.
